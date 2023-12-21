@@ -1,0 +1,10 @@
+export * as getEmployeeSelingSlice from "./getEmployeeSelingSlice";
+export * as getOrderRecentSlice from "./getOrderRecentSlice";
+export * as getProductSelingSlice from "./getProductSelingSlice";
+export * as getChartorderSlice from "./getChartorderSlice";
+export * as getChartOverviewSlice from "./getChartOverviewSlice";
+export * as getChartRevenueAndProfitSlice from "./getChartRevenueAndProfitSlice";
+export * as getAmountNeedSlice from "./getAmountNeedSlice";
+export * as getAmountSoldOfBrandsSlice from "./getAmountSoldOfBrandsSlice";
+export * as getAmountSoldOfCategoriesSlice from "./getAmountSoldOfCategoriesSlice";
+export * as AdminGetParametersSlice from "./getProductSelingSlice copy";
